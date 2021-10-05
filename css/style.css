@@ -1,0 +1,16 @@
+.movies {
+}
+
+.movies-item {
+  width: 300px;
+  padding: 20px;
+  vertical-align: middle;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+.pokemon__img {
+  object-fit: contain;
+  object-position: center;
+};
+
